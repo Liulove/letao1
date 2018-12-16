@@ -1,0 +1,6 @@
+.lt_main .echarts-box .echarts-left,
+.lt_main .echarts-box .echarts-right{
+width: 48%;
+height:500px;
+background-color: gold;
+}
